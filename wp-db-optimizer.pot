@@ -1,0 +1,46 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP DB Optimizer\n"
+"POT-Creation-Date: 2009-01-15 16:56-0600\n"
+"PO-Revision-Date: \n"
+"Last-Translator: vicmx <vicmx@live.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "WP DB Optimizer"
+msgstr ""
+
+msgid "Optimized Database!"
+msgstr ""
+
+msgid "Optimize database:"
+msgstr ""
+
+msgid "Optimized all the tables found in the database."
+msgstr ""
+
+msgid "Table"
+msgstr ""
+
+msgid "Size"
+msgstr ""
+
+msgid "Status"
+msgstr ""
+
+msgid "Space Saved"
+msgstr ""
+
+msgid "Already Optimized"
+msgstr ""
+
+msgid "Optimized"
+msgstr ""
+
+msgid "Optimization Results:"
+msgstr ""
+
+msgid "Total Space Saved:"
+msgstr ""
